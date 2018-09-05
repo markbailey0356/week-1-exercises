@@ -1,0 +1,19 @@
+body {
+    background: white;
+}
+
+#content {
+    height: 100px; width: 100px;
+    background: rgb(14, 18, 199);
+    position: absolute;
+    bottom: 0; right: 0;
+    /* margin: 50px; */
+}
+
+#content2 {
+    height: 1500px; width: 100px;
+    /* margin: 0 auto; */
+    bottom: 0; right: 0;
+    background: maroon;
+    text-align: center;
+}
